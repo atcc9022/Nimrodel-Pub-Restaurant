@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    background-image: url(../img/fondo.jpg);
+    height: 84px;
+    background-size: contain;
+}
+
+.fondofooter{
+background-image: url(../img/fondo.jpg);
+height: 362px;
+background-repeat: no-repeat;
+background-position:top;
+background-size:cover;
+}
+
+#comuniquemonos {
+    display: none;
+}
+
+#reservacion {
+    display: none;
+}
+
+.open{
+    text-decoration: none;
+}
+
+.text-nosotros{
+    font-style: oblique;
+    font-weight: 500;
+}
+
+.nosotros{
+    display: none;
+}
+
