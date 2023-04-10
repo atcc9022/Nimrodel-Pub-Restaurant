@@ -19,9 +19,9 @@ $('.open').click(function(){
 
 // __________________modalnosotros_________________
 
-$('#nosotros-modal').click(function(){
-   $('#sobreNosotros').toggle()
-})
+// $('#nosotros-modal').click(function(){
+//   $('#sobreNosotros').toggle()
+// })
 
 // _____ validacion form comuniquemonos_____________
 
